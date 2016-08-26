@@ -1,5 +1,3 @@
-require('script!uglify!lib/zepto/zepto.1.1.6.js');
-
 var swipe = function(obj, ev, callback) {
 
 	//ev：down/up/left/right
